@@ -61,18 +61,6 @@ AI-Terminal-X is powered by  **Google’s Gemini AI** , making it **exceptionall
 
 ✅ **User-friendly interface** for seamless interaction
 
-### 🔥 **LOGO**
-
-![Logo](img/logo.png)
-
-### 🔥 **Built for**
-
-![Logo](img/built-for.png)
-
-### 🔥 **Work-Flow**
-
-![Logo](img/workflow.png)
-
 # 🔧 Installation
 
 ### 1: 🔹 Install Required Modules
