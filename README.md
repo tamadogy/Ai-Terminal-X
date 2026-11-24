@@ -171,13 +171,6 @@ For any other issues, feel free to open an issue in the [GitHub repository](http
 | `Display running processes`               | `ps aux`            |
 | `Open a file with Nano editor`            | `nano filename.txt` |
 
-## 👨‍💻 Author
-
-**Muhammad Izaz Haider**
-
-* Ethical Hacker | Penetration Tester | Founder of **The Pentrix**
-* [LinkedIn](https://www.linkedin.com/in/muhammad-izaz-haider-091639314/) • [GitHub](https://github.com/mizazhaider-ceh) • [PortFolio](https://mizazhaider-ceh.github.io/My-Portfolio/)
-
 ## 🌟 Support the Project
 
 If you like  **AI-Terminal-X** , please **⭐ star the repo** and share it with your friends!
