@@ -2,8 +2,6 @@
 
 ![Logo](img/main.png)
 
-**Developed by:** Muhammad Izaz Haider
-
 Your AI-powered personal terminal assistant for **Linux** (especially Kali Linux).
 
 Order in plain English — and watch real terminal magic happen instantly! 🪄
